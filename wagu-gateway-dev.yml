@@ -2,4 +2,6 @@ zuul:
  routes:
   wagu-post: /api/post/**
   wagu-user: /api/account/**
+  wagu-comment: /api/comment/**
+  wagu-search: /api/search/**
  strip-prefix: true
